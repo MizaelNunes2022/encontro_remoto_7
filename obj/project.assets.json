@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mizae\\Desktop\\CadastroPessoa-Fisica-Juridica\\CadastroPessoa-Fisica-Juridica.csproj",
+      "projectUniqueName": "C:\\Users\\mizae\\Desktop\\encontro remoto 8\\CadastroPessoa-Fisica-Juridica.csproj",
       "projectName": "CadastroPessoa-Fisica-Juridica",
-      "projectPath": "C:\\Users\\mizae\\Desktop\\CadastroPessoa-Fisica-Juridica\\CadastroPessoa-Fisica-Juridica.csproj",
+      "projectPath": "C:\\Users\\mizae\\Desktop\\encontro remoto 8\\CadastroPessoa-Fisica-Juridica.csproj",
       "packagesPath": "C:\\Users\\mizae\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mizae\\Desktop\\CadastroPessoa-Fisica-Juridica\\obj\\",
+      "outputPath": "C:\\Users\\mizae\\Desktop\\encontro remoto 8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mizae\\AppData\\Roaming\\NuGet\\NuGet.Config"
